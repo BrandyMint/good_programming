@@ -28,6 +28,7 @@ it would be
 Ссылки
 ======
 
+* [Google Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml) 
 * [Trail Map](https://learn.thoughtbot.com/ios)
 * [iOS programming architecture and design
   guidelines](http://blog.mugunthkumar.com/articles/ios-programming-architecture-and-design-guidelines/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MugunthKumar+%28Mugunth+Kumar%27s+Blog%29)
