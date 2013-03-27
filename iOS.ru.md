@@ -28,6 +28,7 @@ it would be
 Ссылки
 ======
 
+* [Конвенция от Omega-R](https://docs.google.com/document/d/1Wjvv9xFwaYYvXMgzFtNOETbXYHGU8LVw5IztRuR7P6s/edit?usp=sharing)
 * [Google Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml) 
 * [Trail Map](https://learn.thoughtbot.com/ios)
 * [iOS programming architecture and design
