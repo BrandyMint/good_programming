@@ -8,18 +8,15 @@
 Качество кода станет только лучше, если вся команда будет придерживаться заранее определенного стиля. Это безусловно стоит того, чтобы потрать немного времени на выработку общих правил.
 
 Различают 6 основных стайлгайдов:
-```
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [npm’s coding style](https://npmjs.org/doc/coding-style.html)
 * [Felix’s Node.js Style Guide](http://nodeguide.com/style.html)
 * [Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/)
 * [jQuery JavaScript Style Guide](http://contribute.jquery.org/style-guide/js/)
 * [Douglas Crockford’s JavaScript coding style](http://javascript.crockford.com/code.html)
-```
 
 Общие советы по изучению языка
 ------------------------------
-```
 - Изучите все основные возможности JavaScript
 - Затем приступайте к продвинутым возможностям языка
 - Как только вы будете чувствовать себя уверенно в чистом JS ознакомьтесь с языками более высокого уровня абстракции, например CoffeeScript или TypeScript. Совершенствуйте использование необходимых JavaScript библиотек, вот список минимально необходимых:
@@ -28,19 +25,16 @@
 * [Underscore.js](http://documentcloud.github.com/underscore/) – отличная библиотека утилит
 * [modernizr](http://modernizr.com/) – детектор поддержки возможностей HTML/CSS браузерами.
 * [history.js](https://github.com/balupton/History.js/) – эмуляция HTML history API, работа с историей браузера.
-```
 
 Фреймворки
 ----------
 Станьте первоклассным JavaScript разработчиком. Имеется множество Javascript MVC фреймворков для клиентской части, но выучите хотя бы 5 (Да, по меньшей мере 5).
-```
 * [Backbone.js](http://documentcloud.github.com/backbone)
 * [AngularJS](http://angularjs.org/)
 * [Spine.js](http://spinejs.com/)
 * [KnockoutJS (MVVM)](http://knockoutjs.com/)
 * [Ember.js](http://emberjs.com/)
 * [YUI](http://yuilibrary.com/)
-```
 
 Паттерны
 --------
