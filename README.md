@@ -1,6 +1,7 @@
 # CSS
 
-https://github.com/necolas/idiomatic-css
+* https://github.com/necolas/idiomatic-css
+* http://csswizardry.com/2012/11/code-smells-in-css/
 
 
 # Javascript
